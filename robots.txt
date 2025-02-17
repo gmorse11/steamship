@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://gmorse11.github.io/steamship
+
+# Sitemaps
+Sitemap: https://gmorse11.github.io/steamship/sitemap.xml
