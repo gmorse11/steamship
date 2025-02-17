@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://gmorse11.github.io/steamship
+Host: https://canopy-iiif.github.io/canopy-iiif
 
 # Sitemaps
-Sitemap: https://gmorse11.github.io/steamship/sitemap.xml
+Sitemap: https://canopy-iiif.github.io/canopy-iiif/sitemap.xml
